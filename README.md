@@ -16,6 +16,6 @@ GZRS - são 6 réplicas, 3 regiões + 1 zonas, duas regiões
 RA - GZRS + acesso de leitura ao secundário
 
 
-Segue link de documentação para um entendimento mais aprofundado:
+Segue link de documentação oficial para um entendimento aprofundado:
 https://learn.microsoft.com/pt-br/azure/storage/common/storage-account-overview
 
