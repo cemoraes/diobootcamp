@@ -1,7 +1,7 @@
 # diobootcamp
 Desafio
 
-Opções de redundancia Storage Account:
+Opções de redundância Storage Account:
 
 LRS - são 3 réplicas e uma região
 
