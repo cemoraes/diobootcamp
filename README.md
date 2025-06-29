@@ -1,8 +1,8 @@
 # diobootcamp
 Desafio
 
-Opções de redundancia Storage Account:
-LRS - são 3 réplicas e uma região
+Opções de redundancia Storage Account:/n
+LRS - são 3 réplicas e uma região/n
 ZRS - são 3 réplicas, três zonas, uma região
 GRS - são 6 réplicas, duas regiões
 RA - GRS + acesso de leitura ao secundário
